@@ -1,5 +1,3 @@
----
-
 # 🛒 UT Mart Sales Dashboard
 
 ## 📌 Project Overview
@@ -57,7 +55,7 @@ Additionally, the dashboard provides insights into:
 
 ## 📷 Dashboard Preview
 
-*(You can add a screenshot of your dashboard here after exporting from Tableau)*
+![Dashboard Preview](image/Dashboard.png)
 
 ---
 
@@ -74,6 +72,5 @@ Additionally, the dashboard provides insights into:
 **Joyston Jose D’souza**
 📧 \joystondsouza450@gmail.com
 🔗 \www.linkedin.com/in/joystondsouza09
----
 
 
