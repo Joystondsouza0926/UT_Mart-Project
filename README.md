@@ -70,7 +70,5 @@ Additionally, the dashboard provides insights into:
 ## 👤 Author
 
 **Joyston Jose D’souza**
-📧 [joystondsouza450@gmail.com]
-🔗 [www.linkedin.com/in/joystondsouza09]
-
-
+📧 \[joystondsouza450@gmail.com]
+🔗 \[www.linkedin.com/in/joystondsouza09]
